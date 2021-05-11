@@ -5,3 +5,5 @@
 [Single byte XOR C program](https://github.com/Senthil-Lakshmikanth/bi0s-week-2-tasks/blob/main/C-Program/Single%20byte%20XOR.c)
 ## Bandit Over The Wire
 [Bandit Over The Wire write up](https://github.com/Senthil-Lakshmikanth/bi0s-week-2-tasks/blob/main/Bandit-Over-The-Wire.txt)
+## CTF Challenges
+[CTF Challenges write up](https://github.com/Senthil-Lakshmikanth/bi0s-week-2-tasks/blob/main/CTF%20Challenges%20write%20up)
