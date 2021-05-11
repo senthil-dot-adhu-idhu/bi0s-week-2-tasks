@@ -6,4 +6,5 @@ To decrypt the given line, we can use the Caeser Cypher Program and changing the
 This can also be done easily using online calculator and the calculator will return us the meaingful data and the respective key shift.
 
 Mischief Kid :
-After downloading the zip file, I unzip it and got mischief.jpg image. Then I extracted using foremost command and got two folders, one contains the same image and the other one contains busted.png image. Then I opened busted.png in GHEX and edited the file signature and saved. When openned that image, I got the flag code written in the image.
+After downloading the zip file, I unzip it and got mischief.jpg image. 
+Then I extracted using foremost command and got two folders, one contains the same image and the other one contains busted.png image. Then I opened busted.png in GHEX and edited the file signature and saved. When openned that image, I got the flag code written in the image.
